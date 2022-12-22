@@ -38,6 +38,10 @@ a::before {
     margin-right: 10px;
 }
 
+a:hover {
+    transform: scale(1.08);
+}
+
 #button {
     display: inline-block;
     background-color: #F25A70;
