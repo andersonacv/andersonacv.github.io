@@ -7,17 +7,9 @@ header {
     padding: 10px 20px;
 }
 
-h1 {
-    color: #F25A70;
-    font-family: "Press Start 2P", sans-serif;
-    text-shadow: 5px 5px 0px #000;
-}
-
-
 nav {
     text-align: right;
 }
-
 
 a {
     display: inline-flex;
