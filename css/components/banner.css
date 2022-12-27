@@ -15,11 +15,12 @@
     width: 640px;
 }
 
+.banner .box {
+    margin-bottom: 40px;
+}
+
 .banner .navigation {
     display: flex;
     justify-content: space-around;
 }
 
-.banner .box {
-    margin-bottom: 40px;
-}
