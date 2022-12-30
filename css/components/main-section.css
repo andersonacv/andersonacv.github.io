@@ -13,3 +13,11 @@
     background-color: #000;
     border-bottom: 10px solid #F25A70;
 }
+
+.main-section.-about {
+    background-color: #7C5E99;
+    border-bottom: 10px solid #000;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+}
